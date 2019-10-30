@@ -1,0 +1,11 @@
+c:\users\xx\documents\visual studio 2015\Projects\Cash\Cash\bin\Debug\Cash.exe.config
+C:\Users\xx\documents\visual studio 2015\Projects\Cash\Cash\bin\Debug\Cash.exe
+C:\Users\xx\documents\visual studio 2015\Projects\Cash\Cash\bin\Debug\Cash.pdb
+C:\Users\xx\documents\visual studio 2015\Projects\Cash\Cash\bin\Debug\MySql.Data.dll
+C:\Users\xx\documents\visual studio 2015\Projects\Cash\Cash\obj\Debug\Cash.csprojResolveAssemblyReference.cache
+C:\Users\xx\documents\visual studio 2015\Projects\Cash\Cash\obj\Debug\Cash.Basla.resources
+C:\Users\xx\documents\visual studio 2015\Projects\Cash\Cash\obj\Debug\Cash.Form1.resources
+C:\Users\xx\documents\visual studio 2015\Projects\Cash\Cash\obj\Debug\Cash.Properties.Resources.resources
+C:\Users\xx\documents\visual studio 2015\Projects\Cash\Cash\obj\Debug\Cash.csproj.GenerateResource.Cache
+C:\Users\xx\documents\visual studio 2015\Projects\Cash\Cash\obj\Debug\Cash.exe
+C:\Users\xx\documents\visual studio 2015\Projects\Cash\Cash\obj\Debug\Cash.pdb
